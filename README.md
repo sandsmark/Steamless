@@ -1,6 +1,6 @@
 # Steamless
 
-[![Code Status](https://www.codefactor.io/repository/github/liberodark/steamless/badge)](https://www.codefactor.io/repository/github/liberodark/steamless)
+[![Code Status](https://www.codefactor.io/repository/github/sandsmark/Steamless/badge)](https://www.codefactor.io/repository/github/sandsmark/Steamless)
 
 Steamless is a DRM remover of the SteamStub variants.
 
