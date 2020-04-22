@@ -94,7 +94,7 @@ No changes should be needed to the solution or source.
 
 # Compiling for Linux
 
-Run `msbuild Steamless-linux.sln`, and then e. g.
+Run `msbuild Steamless-linux.sln -p:Configuration=Release`, and then e. g.
 `mono ./Steamless/bin/x86/Debug/Steamless.CLI.exe path/to/executable.exe`.
 
 Note: This only builds a command line version of the application for Linux, it
