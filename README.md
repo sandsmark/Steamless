@@ -1,5 +1,7 @@
 # Steamless
 
+[![Code Status](https://www.codefactor.io/repository/github/liberodark/steamless/badge)](https://www.codefactor.io/repository/github/liberodark/steamless)
+
 Steamless is a DRM remover of the SteamStub variants.
 
 The goal of Steamless is to make a single solution for unpacking all Steam DRM packed files. Steamless aims to support as many games as possible.<br>
