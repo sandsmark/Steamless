@@ -12,4 +12,7 @@
       <Name>Steamless.API</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="SharpDisasm" Version="1.1.11" />
+  </ItemGroup>
 </Project>
