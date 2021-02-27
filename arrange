@@ -1,0 +1,10 @@
+#!/bin/sh
+#rm -rf build/Plugins
+mkdir -p build/Plugins
+
+OUTVER=Debug/net5.0
+# includes Steamless.API
+cp -r Steamless.CLI/bin/$OUTVER/* build/
+cp -r Steamless.Unpacker*/bin/$OUTVER/* build/Plugins/
+mv build/Plugins/SharpDisasm.dll build/
+

@@ -1,0 +1,10 @@
+<!-- Use this to quickly change .NET Core version, etc. for older systems -->
+<Project>
+  <PropertyGroup>
+    <!--<TargetFramework>netcoreapp3.1</TargetFramework>-->
+    <TargetFramework>net5.0</TargetFramework>
+    <!-- For SharpDisasm into build dir so it can be gotten at by arrange/your own scripts -->
+    <CopyLocalLockFileAssemblies>true</CopyLocalLockFileAssemblies>
+  </PropertyGroup>
+</Project>
+
